@@ -36,3 +36,5 @@ You have:
  3 wood
  >
 """
+
+import task5
